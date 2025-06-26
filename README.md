@@ -55,5 +55,5 @@ pip install -r requirements.txt
 jupyter notebook notebooks/your_project_notebook.ipynb
 ```
 # 👩‍💻 Author
-Đinh Lê Quỳnh Phương
-GitHub: @quynhphuong1209
+- Đinh Lê Quỳnh Phương
+- GitHub: @quynhphuong1209
